@@ -1,0 +1,24 @@
+{
+  "name": "pre-launch-security-audit-skill",
+  "version": "1.0.0",
+  "description": "Comprehensive 85-point pre-launch security audit skill for AI coding agents across Web, Mobile, APIs, and AI applications.",
+  "main": "SKILL.md",
+  "keywords": [
+    "agent-skills",
+    "security-audit",
+    "owasp",
+    "pre-launch",
+    "pentesting",
+    "llm-security",
+    "mobile-security",
+    "claude-code",
+    "cursor",
+    "antigravity"
+  ],
+  "author": "Sahil Raj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raj983535/pre-launch-security-audit-skill-Short-Description-.git"
+  }
+}
