@@ -4,9 +4,9 @@
 [![OWASP Top 10 2025](https://img.shields.io/badge/OWASP%20Top%2010-2025%20Ready-blue)](https://owasp.org/Top10/2025)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An open-source, universal **Pre-Launch Security Audit Skill** for AI coding assistants (Claude Code, Antigravity, Cursor, Codex, Windsurf, OpenCode, and Gemini CLI).
-
-Based on the battle-tested methodology by Mayank Shah and mapped against **OWASP Top 10 (2025)**, **OWASP Top 10 for LLM Applications (2025)**, and modern mobile/web security baselines.
+> **Attribution & Disclaimer:**  
+> The original **Pre-Launch Security Audit (v2.0)** checklist and audit flow were created by **Mayank Shah** ([Instagram: @mayankshah_ai](https://instagram.com/mayankshah_ai) | [X: @Mayankshahh](https://x.com/Mayankshahh)).  
+> This repository is an unofficial **community adaptation** by [raj983535](https://github.com/raj983535). It structures the public checklist into a standardized, machine-readable AI agent skill (`SKILL.md`) for personal and community use with AI coding assistants (such as Antigravity, Claude Code, Cursor, Codex, Windsurf, OpenCode, and Gemini CLI). I am not the original author of the checklist, nor do I claim proprietary ownership of the underlying security audit methodology.
 
 ---
 
@@ -98,6 +98,7 @@ Agents running this skill must adhere to non-negotiable safety rules:
 
 ---
 
-## 📄 License
+## 📄 License & Credits
 
-MIT License. Designed for open distribution across the agentic developer ecosystem.
+- **Original Methodology & Checklist**: © Mayank Shah ([@mayankshah_ai](https://instagram.com/mayankshah_ai) | [@Mayankshahh](https://x.com/Mayankshahh)).
+- **Skill Wrapper & Packaging**: Distributed under the MIT License by [raj983535](https://github.com/raj983535) for open developer use.

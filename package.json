@@ -1,7 +1,7 @@
 {
   "name": "pre-launch-security-audit-skill",
-  "version": "1.0.0",
-  "description": "Comprehensive 85-point pre-launch security audit skill for AI coding agents across Web, Mobile, APIs, and AI applications.",
+  "version": "1.0.1",
+  "description": "Universal 85-point pre-launch security audit skill for AI coding assistants. Community skill adaptation based on the pre-launch security checklist by Mayank Shah.",
   "main": "SKILL.md",
   "keywords": [
     "agent-skills",
@@ -15,7 +15,11 @@
     "cursor",
     "antigravity"
   ],
-  "author": "Sahil Raj",
+  "author": "Packaged by raj983535",
+  "contributors": [
+    "Mayank Shah (@mayankshah_ai / @Mayankshahh) - Original Methodology & Checklist",
+    "raj983535 - Agent Skill Packaging & Formatting"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

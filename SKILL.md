@@ -3,10 +3,15 @@ name: pre-launch-security-audit
 description: Complete 85-point pre-launch security audit for web apps, mobile apps, APIs, and AI-enabled platforms. Covers 67 automated code checks (OWASP Top 10, secrets, auth, access control, DB/injection, input handling, rate limiting, payments, LLM security, supply chain, headers) and 18 human checks. Generates AUDIT.md and an executive launch verdict.
 license: MIT
 source: https://github.com/raj983535/pre-launch-security-audit-skill-Short-Description-
+attribution: "Original methodology & checklist by Mayank Shah (@mayankshah_ai / @Mayankshahh). Community skill packaging by raj983535."
 tags: ["security", "audit", "pre-launch", "owasp", "pentest", "llm-security", "mobile-security"]
 ---
 
 # Pre-Launch Security Audit (Universal Agent Skill)
+
+> **Notice & Attribution:**  
+> Original 85-point checklist created by **Mayank Shah** ([@mayankshah_ai](https://instagram.com/mayankshah_ai) / [@Mayankshahh](https://x.com/Mayankshahh)).  
+> Packaged as an AI agent skill for community and developer use by [raj983535](https://github.com/raj983535).
 
 A battle-tested, 85-point pre-launch application security audit protocol designed for AI coding assistants and developers. It systematically scans any codebase (Web, Mobile, Backend API, Cloud, and LLM integrations) to detect, document, and remediate high-risk vulnerabilities before public launch.
 
