@@ -1,8 +1,11 @@
 {
   "name": "pre-launch-security-audit-skill",
-  "version": "1.0.1",
-  "description": "Universal 85-point pre-launch security audit skill for AI coding assistants. Community skill adaptation based on the pre-launch security checklist by Mayank Shah.",
+  "version": "2.0.0",
+  "description": "Enterprise-grade pre-launch security audit skill for AI coding assistants. Covers ~100 automated checks across 14 domains (OWASP Top 10, secrets, auth, IDOR, injection, rate limiting, fintech, multi-tenant SaaS, LLMs, mobile) with quick_scan.py static analyzer.",
   "main": "SKILL.md",
+  "scripts": {
+    "scan": "python3 scripts/quick_scan.py"
+  },
   "keywords": [
     "agent-skills",
     "security-audit",
@@ -11,6 +14,8 @@
     "pentesting",
     "llm-security",
     "mobile-security",
+    "fintech-security",
+    "saas-security",
     "claude-code",
     "cursor",
     "antigravity"
